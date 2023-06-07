@@ -1,1 +1,5 @@
-db.sqlite3
+conference_app/db.sqlite3
+venv
+conference_app/images
+.idea
+misc.xml
