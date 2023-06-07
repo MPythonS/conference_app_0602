@@ -3,3 +3,4 @@ venv
 conference_app/images
 .idea
 misc.xml
+.env
